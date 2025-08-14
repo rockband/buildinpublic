@@ -148,13 +148,28 @@ This section provides a phased approach to building in public, helping you estab
 
 Joining communities is essential for support, inspiration, and learning from like-minded builders. Here are some key communities to help you along your build-in-public journey:
 
+
 - **[X #buildinpublic](https://x.com/hashtag/buildinpublic)** - Engaging with the **#buildinpublic** hashtag on **X** (*twitter*) is a great way to connect with others, get inspired, and support fellow builders. Twitter acts as a real-time community hub where you can find instant feedback and encouragement.
-- **[Product Hunt Discussions](https://www.producthunt.com/discussions)** - Product Hunt Discussions offers a supportive community and space to connect with other makers working on similar projects, plus structured goals and challenges to help you stay on track.
+- **[Awesome Founder Communities](https://github.com/DirectorySurf/awesome-founder-communities)** – Collection of online spaces for founders, indie makers, and creators.
+- **[Product Hunt Forums](https://www.producthunt.com/forums)** - Product Hunt Discussions offers a supportive community and space to connect with other makers working on similar projects, plus structured goals and challenges to help you stay on track.
 - **[Indie Hackers](https://www.indiehackers.com/)** - Indie Hackers is one of the most popular communities for indie creators and entrepreneurs. You can share your progress, learn from others, and find potential collaborators.
 - **[Makerlog](https://getmakerlog.com/)** - Makerlog is a community where you can log your daily tasks, share updates, and get motivated by seeing what other builders are doing.
 - **[No Code Founders](https://www.nocodefounders.com/)** - No Code Founders](https://www.nocodefounders.com/) is ideal for those using no-code tools to build their products. This community shares resources, stories, and tips for building without traditional coding.
 - **[WIP](https://wip.co/)** - WIP is a community for makers who like to stay productive and publicly accountable. It's designed to keep you moving forward with small, consistent progress.
 - **Telegram, Slack and Discord Groups** - Look for **Telegram**, **Slack** or **Discord** groups related to your niche, or even create your own for your audience. These groups can be an excellent way to foster a deeper connection and receive real-time feedback on your product.
+
+
+
+### Helpful Directories & Launch Tools
+
+- **[Awesome Launch Platforms](https://github.com/DirectorySurf/awesome-launch-platforms)** – Platforms to launch, promote, and showcase your product.
+- **[Awesome Directories](https://github.com/directorieswiki/awesome-directories)** – Comprehensive collection of directory lists and resources.
+- **[Directory of Directories](https://github.com/dariubs/directory-of-directories)** – Meta-list of directories across industries and topics.
+- **[AI Directories](https://github.com/best-of-ai/ai-directories)** – Curated list of AI tool directories to discover or submit AI projects.
+- **[Altern](https://altern.ai/)** – Search and discover AI tools with detailed filtering and comparisons.
+- **[Product Hunt Alternatives](https://github.com/DirectorySurf/awesome-producthunt-alternatives)** – Alternative sites to launch and promote products beyond Product Hunt.
+- **[G2 Alternatives](https://github.com/DirectorySurf/awesome-g2-alternatives)** – Other platforms for software discovery and reviews outside of G2.
+- **[TAAFT Alternatives](https://github.com/DirectorySurf/awesome-theresanaiforthat-alternatives)** – Alternative AI tool directories beyond *taaft*.
 
 ---
 
