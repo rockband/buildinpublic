@@ -153,8 +153,7 @@ Joining communities is essential for support, inspiration, and learning from lik
 - **[Awesome Founder Communities](https://github.com/DirectorySurf/awesome-founder-communities)** – Collection of online spaces for founders, indie makers, and creators.
 - **[Product Hunt Forums](https://www.producthunt.com/forums)** - Product Hunt Discussions offers a supportive community and space to connect with other makers working on similar projects, plus structured goals and challenges to help you stay on track.
 - **[Indie Hackers](https://www.indiehackers.com/)** - Indie Hackers is one of the most popular communities for indie creators and entrepreneurs. You can share your progress, learn from others, and find potential collaborators.
-- **[Makerlog](https://getmakerlog.com/)** - Makerlog is a community where you can log your daily tasks, share updates, and get motivated by seeing what other builders are doing.
-- **[No Code Founders](https://www.nocodefounders.com/)** - No Code Founders](https://www.nocodefounders.com/) is ideal for those using no-code tools to build their products. This community shares resources, stories, and tips for building without traditional coding.
+- **[No Code Founders](https://www.nocodefounders.com/)** - No Code Founders is ideal for those using no-code tools to build their products. This community shares resources, stories, and tips for building without traditional coding.
 - **[WIP](https://wip.co/)** - WIP is a community for makers who like to stay productive and publicly accountable. It's designed to keep you moving forward with small, consistent progress.
 - **Telegram, Slack and Discord Groups** - Look for **Telegram**, **Slack** or **Discord** groups related to your niche, or even create your own for your audience. These groups can be an excellent way to foster a deeper connection and receive real-time feedback on your product.
 
